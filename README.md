@@ -10,6 +10,8 @@ This repository documents my labs and projects as I learn. Each write-up covers 
 
 ## Completed rooms
 - [Junior Security Analyst Intro](junior-security-analyst-intro.md)
+- [SOC Role in Blue Team](soc-team-roles-challenge.md)
+- [Humans as Attack Vectors](humans-as-attack-vectors.md)
 
 ## Goal
 To work as a SOC analyst and keep growing in defensive security.

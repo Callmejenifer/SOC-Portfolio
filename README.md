@@ -8,7 +8,7 @@ This repository documents my labs and projects as I learn. Each write-up covers 
 - TryHackMe SOC Level 1 path
 - Log analysis, alert triage, and incident escalation
 
-## Completed rooms
+## Completed rooms and projects
 - [Junior Security Analyst Intro](junior-security-analyst-intro.md)
 - [SOC Role in Blue Team](soc-team-roles-challenge.md)
 - [Humans as Attack Vectors](humans-as-attack-vectors.md)

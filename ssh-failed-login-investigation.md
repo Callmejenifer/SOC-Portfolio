@@ -58,7 +58,7 @@ ssh -o preferredAuthentications=password -o pubkeyAuthentication=no jenifer-john
 ```
 SSH replied "Permission denied" after the third wrong password.
 
-![Three deliberate failed logins](images/failed%20ssh%20login%20attempts.png)
+![Three deliberate failed logins](images/faild%20ssh%20login%20attempts.png)
 
 ## Step 6: Investigate the authentication logs
 I searched the SSH log for authentication events.

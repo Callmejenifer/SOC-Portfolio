@@ -13,6 +13,7 @@ This repository documents my labs and projects as I learn. Each write-up covers 
 - [SOC Role in Blue Team](soc-team-roles-challenge.md)
 - [Humans as Attack Vectors](humans-as-attack-vectors.md)
 - [SSH Failed Login Investigation (Home Lab)](ssh-failed-login-investigation.md)
+- [Systems as Attack Vectors](systems-as-attack-vectors.md)
 
 ## Goal
 To work as a SOC analyst and keep growing in defensive security.
